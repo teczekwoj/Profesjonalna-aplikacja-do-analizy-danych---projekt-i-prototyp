@@ -19,3 +19,6 @@ Projektowanie systemu - 4 tygodnie
 Implementacja systemu - 12 tygodni  
 Testowanie i wdrożenie - 4 tygodnie  
 Utrzymanie i aktualizacja - stały proces  
+
+## 2. Wymagania dotyczące danych i ich jakości  
+2.1 **Źródła danych**  
