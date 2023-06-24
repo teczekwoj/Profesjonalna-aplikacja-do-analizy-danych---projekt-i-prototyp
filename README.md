@@ -1,6 +1,6 @@
 ## Specyfikacja aplikacji do analizy danych uderzeń meteorytów w Ziemię.  
 # Opis projektu  
-opis  
+Celem projektu jest stworzenie aplikacji webowej do analizy danych uderzeń wszytkich zidentyfikowanych przez NASA obiektów w Ziemię. Aplilacja ma w czytelny, przystępny i nowoczesny sposób prezentować dane na temat obiektów, pokazywać statystyki i wizualizacje na podstawie zbioru danych dostarczonego przez organizacje NASA.
 # Najważniejsze cele projektu  
 cele
 # 
