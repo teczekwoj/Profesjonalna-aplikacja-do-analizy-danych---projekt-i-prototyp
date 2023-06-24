@@ -14,8 +14,8 @@ Celem projektu jest stworzenie globalnego systemu umożliwiającego przeglądani
 Dane pozyskane z tego portalu są kompletne, sprawdzone i ogólnodostępne co czyni je gotowymi do analizy.
 
 1.3 **Harmonogram projektu**  
-• Analiza wymagań - 2 tygodnie.
-• Projektowanie systemu - 4 tygodnie.
-• Implementacja systemu - 12 tygodni.
-• Testowanie i wdrożenie - 4 tygodnie.
-• Utrzymanie i aktualizacja - stały proces
+Analiza wymagań - 2 tygodnie  
+Projektowanie systemu - 4 tygodnie  
+Implementacja systemu - 12 tygodni  
+Testowanie i wdrożenie - 4 tygodnie  
+Utrzymanie i aktualizacja - stały proces  
