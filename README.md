@@ -22,7 +22,7 @@ Utrzymanie i aktualizacja - stały proces
 
 ## 2. Wymagania dotyczące danych i ich jakości  
 2.1 **Źródła danych**  
-Dane są przechowywane w pliku .csv  
+- Dane są przechowywane w pliku .csv  
 Stan danych  jest aktualizowany co parę miesięcy i zależy on od wolonaryjnej chęci pracowników NASA  
 Jakość tych danych jest sprawdzona, dane są prawidłowo zmodelowane i ustrukturyzowane  
 Organizajcą odpowiedzialną za poprawność tych danych jest NASA Open Data Portal, dane są udostępnianie publicznie na postawie licencji Open Source  
