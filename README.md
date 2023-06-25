@@ -43,3 +43,34 @@ Dane źródłowe bedą miały jednolity charakter i formę. Będą podzielone na
 - reclat (text)
 - reclong (text)
 - GeoLocation (location)
+
+## 3. Wymagania funkcjonalne
+1. Logowanie użytkownika:  
+- Aplikacja powinna umożliwiać użytkownikom zarejestrowanie się i zalogowanie
+- Po zalogowaniu użytkownik powinien mieć dostęp do swojego indywidualnego dashboardu
+
+2. Import danych:  
+- Użytkownik powinien mieć możliwość importowania zbioru danych w formacjie .csv
+- Aplikacja powinna obsługiwać wczytywanie danych z lokalnego dysku użytkownika
+
+3. Podgląd danych:  
+- Aplikacja powinna umożliwiać użytkownikowi podgląd wczytanych danych w formie tabeli lub innej czytelnej struktury
+
+4. Wizualizacje danych:  
+- Aplikacja powinna oferować różne rodzaje wizualizacji danych, takie jak wykresy, histogramy, mapy cieplne itp
+- Użytkownik powinien mieć możliwość interaktywnego manipulowania wizualizacjami, takimi jak przybliżanie, oddalanie, filtrowanie, zmiana typu wykresu itp.
+
+5. Filtry i sortowanie:  
+- Użytkownik powinien mieć możliwość zastosowania filtrów do danych, aby wyświetlić tylko interesujące go rekordy
+- Aplikacja powinna umożliwiać sortowanie danych według wybranych kolumn
+
+6. Statystyki i analiza:  
+- Aplikacja powinna dostarczać różne statystyki i wskaźniki na podstawie dostępnych danych, takie jak sumy, średnie, mediany itp.
+- Użytkownik powinien mieć możliwość generowania raportów i podsumowań dla wybranych danych
+
+7. Reaktywność: 
+- Aplikacja powinna być responsywna i umożliwiać płynne działanie, nawet przy dużej ilości danych
+- Wszelkie zmiany w danych lub interakcje użytkownika powinny być odzwierciedlane w czasie rzeczywistym
+
+8. Udostępnianie:  
+- Użytkownik powinien mieć możliwość udostępniania swojego dashboardu innym osobom poprzez generowanie linku lub zapisywanie go jako plik
