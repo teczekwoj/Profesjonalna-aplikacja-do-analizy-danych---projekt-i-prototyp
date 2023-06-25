@@ -91,5 +91,7 @@ Dane źródłowe bedą miały jednolity charakter i formę. Będą podzielone na
 4.4 Rozszerzalność:
 - Aplikacja powinna być łatwo rozszerzalna, umożliwiając dodawanie nowych funkcji, wizualizacji i modułów analizy danych
 
-4.5Utrzymanie:
+4.5 Utrzymanie:
 - Aplikacja powinna być łatwa w utrzymaniu, umożliwiając aktualizacje, naprawy błędów i wprowadzanie zmian w przyszłości
+
+## 5. Proponowane technologie
