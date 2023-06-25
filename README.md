@@ -77,5 +77,19 @@ Dane źródłowe bedą miały jednolity charakter i formę. Będą podzielone na
 
 ## 4. Wymagania niefunkcjonalne
 4.1 Wydajność:  
-- Aplikacja powinna być szybka i responsywna, zapewniając płynne doświadczenie użytkownika nawet przy dużej ilości danych.
-- Czas wczytywania danych i generowania wizualizacji powinien być minimalny.
+- Aplikacja powinna być szybka i responsywna, zapewniając płynne doświadczenie użytkownika nawet przy dużej ilości danych
+- Czas wczytywania danych i generowania wizualizacji powinien być minimalny
+
+4.2 Łatwość użycia:  
+- Interfejs użytkownika powinien być intuicyjny i łatwy w obsłudze, nawet dla osób bez doświadczenia w analizie danych
+- Instrukcje i wsparcie użytkownika powinny być dostępne, aby ułatwić korzystanie z aplikacji
+
+4.3 Kompatybilność:
+- Aplikacja powinna być kompatybilna z różnymi przeglądarkami internetowymi i systemami operacyjnymi
+- Powinna działać na różnych urządzeniach, takich jak komputery stacjonarne, laptopy, tablety i smartfony
+
+4.4 Rozszerzalność:
+- Aplikacja powinna być łatwo rozszerzalna, umożliwiając dodawanie nowych funkcji, wizualizacji i modułów analizy danych
+
+4.5Utrzymanie:
+- Aplikacja powinna być łatwa w utrzymaniu, umożliwiając aktualizacje, naprawy błędów i wprowadzanie zmian w przyszłości
