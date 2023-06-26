@@ -95,3 +95,14 @@ Dane źródłowe bedą miały jednolity charakter i formę. Będą podzielone na
 - Aplikacja powinna być łatwa w utrzymaniu, umożliwiając aktualizacje, naprawy błędów i wprowadzanie zmian w przyszłości
 
 ## 5. Proponowane technologie
+- Główny język zastowsowany w projekcjie - Python
+- Strona webowa stworzona na podstawie biblioteki Pythona - Streamlit
+- Biblioteka NumPy do obliczeń numerycznych dla danych i wizualizacji
+- Biblioteka Pandas służy do analizy danych i zarządzania danymi. Jest używana zwykle z NumPy i Matplotlib. Obsługuje pliki CSV, korzysta z ramki danych (DataFrame) i jest szczególnie przydatna w procesie przygotowania danych.
+- Biblioteka SciPy wykorzystywana w projektach obejmujących różne obliczenia: matematyczne, statystyczne, inżynieryjne. Współpracuje z Matplotlib, NumPy, 
+- Biblioteka Matplotlib do wizualizacji danych w języku Python. Umożliwia tworzenie histogramów, wykresów rozrzutu, słupkowych, kołowych, itp.
+- Seaborn do wizualizacji danych opartą na Matplotlib i dostarcza metod do wizualizacji statystycznych. Jest zintegrowana z NumPy i Pandas. Ma funkcje do operowania na ramkach danych (DataFrame) i tablicach. Zawiera ogromny zbiór narzędzi do złożonej wizualizacji. Umożliwia rysowanie wykresów kołowych, histogramów, wykresów rozrzutu, słupkowych itp.
+- Microsoft Azure do hostingu strony www.
+
+## 5. Autor
+Wojciech Latko
