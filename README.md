@@ -104,5 +104,5 @@ Dane źródłowe bedą miały jednolity charakter i formę. Będą podzielone na
 - Seaborn do wizualizacji danych opartą na Matplotlib i dostarcza metod do wizualizacji statystycznych. Jest zintegrowana z NumPy i Pandas. Ma funkcje do operowania na ramkach danych (DataFrame) i tablicach. Zawiera ogromny zbiór narzędzi do złożonej wizualizacji. Umożliwia rysowanie wykresów kołowych, histogramów, wykresów rozrzutu, słupkowych itp.
 - Microsoft Azure do hostingu strony www.
 
-## 5. Autor
+## Autor
 Wojciech Latko
